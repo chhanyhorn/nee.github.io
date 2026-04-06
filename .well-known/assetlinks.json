@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "app_link_testing_n",
+      "package_name": "com.example.app_link_testing_n",
+      "sha256_cert_fingerprints": [
+        "8E:4F:8E:FE:20:A4:9B:0D:73:15:3D:D0:1F:E7:14:59:06:D5:E9:78:12:76:D8:90:55:76:6B:5D:FB:99:3A:4C"
+      ]
+    }
+  }
+]
